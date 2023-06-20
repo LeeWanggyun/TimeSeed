@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418939666670",
+    "project_id": "timeseed-f22f8",
+    "storage_bucket": "timeseed-f22f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418939666670:android:264d0fa72c4646ee86b3ff",
+        "android_client_info": {
+          "package_name": "com.example.timeseed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418939666670-qnncj8g0hed1kk6ldt9eau3qo1tj2gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbCHAYiR__pOP7O7xlGbHvmr9k5fNXdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418939666670-qnncj8g0hed1kk6ldt9eau3qo1tj2gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
